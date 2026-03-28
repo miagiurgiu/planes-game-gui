@@ -11,9 +11,6 @@
 
 - In addition to the console-based user interface required, the app also implements a graphical user interface (GUI) for the program
 - Both user interfaces (menu-based and graphical) use the same program layers. The application can be started with either user interface
-## AI Bonus (0.2P)
-- Implement computer AI using a [minimax algorithm](https://en.wikipedia.org/wiki/Minimax). Computer play should be competitive against the human player
-- Since in the case of games like Battleship/Planes (which are not [complete information](https://en.wikipedia.org/wiki/Complete_information) games), minimax cannot be applied, but the app still uses strategy when making its moves in order to attempt to win the game and provide an entertaining opponent for the human player.
 
 ### Planes
 The game is described [here](https://ro.wikipedia.org/wiki/Avioane_(joc))
