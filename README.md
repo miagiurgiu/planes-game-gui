@@ -3,7 +3,7 @@
 <h1>Planes Game Application</h1>
 
 <p>
-  <strong>A Python strategy game built with layered architecture, custom computer AI, and dual user interfaces (Console and Tkinter GUI).</strong>
+  <strong>A Python strategy game built with layered architecture, dual user interfaces (Console and Tkinter GUI) and custom computer AI (more or less :) still room for improvements), and </strong>
 </p>
 
 <br>
@@ -40,9 +40,9 @@
 
 ## Overview
 
-This is an enhanced version of the Python Planes Game built for FP in my 1st semester of uni. **Planes Game** is a well-known turn-based strategy game. This app attempts to recreate it in a human player vs. computer player format.
+This is an enhanced version of the Python Planes Game built for FP in my 1st semester of uni. **Planes Game** is a well-known turn-based strategy game. I tried to recreate it in a human vs computer player format.
 
-The application strictly satisfies all mandatory course requirements—including layered architecture, object-oriented design, PyUnit test coverage, and complete user input validation. Additionally, it achieves both project bonuses: a **dual Tkinter GUI interface** and a **custom target-tracking computer AI** tailored for hidden-information games.
+The application follows all mandatory course requirements—including layered architecture, OOP, PyUnit test coverage, and user input validation. It achieves both project bonuses: a **dual Tkinter GUI interface** and a **custom target-tracking computer AI** tailored for hidden-information games.
 
 ## Demo
 
