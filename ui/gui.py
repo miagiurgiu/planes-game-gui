@@ -146,11 +146,12 @@ class ConsoleGUI:
 
         self._format_label = Label(
             self._input_frame,
-            text="(Coordinates example: A3 B3)",
+            text="(Format example: A3 D3)",
             font=("Consolas", 11, "italic"),
             bg=self.BG_DARK,
             fg=self.TEXT_PINK
         )
+
         self._format_label.pack(side=LEFT, padx=5)
 
     def _draw_board(self, board, show_planes, frame):
@@ -240,6 +241,7 @@ class ConsoleGUI:
 
     def _game_loop(self):
         self._plane_label.config(text="Your move:")
+        self._format_label.config(text="(Format example: A3)")
         self._plane_entry.delete(0, END)
         self._plane_button.config(text="Fire", command = self._user_move)
 
