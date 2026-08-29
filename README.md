@@ -3,7 +3,7 @@
 <h1>Planes Game Application</h1>
 
 <p>
-  <strong>A Python strategy game built with layered architecture, dual user interfaces (Console and Tkinter GUI) and custom computer AI (more or less :) still room for improvements) </strong>
+  <strong>A Python strategy game built with layered architecture, dual user interfaces (Console and Tkinter GUI) and custom computer AI (more or less - still room for improvements :)) </strong>
 </p>
 
 <br>
