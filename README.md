@@ -10,27 +10,27 @@
 
 <p>
   <img
-    src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    src="https://img.shields.io/badge/LANGUAGE-PYTHON-FFBBE1?style=for-the-badge&logo=python&logoColor=1C0A18&labelColor=3A1732"
     alt="Python"
   >
   <img
-    src="https://img.shields.io/badge/GUI-TKINTER-FF6F00?style=for-the-badge"
+    src="https://img.shields.io/badge/GUI-TKINTER-F38CB4?style=for-the-badge&labelColor=3A1732&color=F38CB4"
     alt="Tkinter"
   >
   <img
-    src="https://img.shields.io/badge/TESTING-PYUNIT-008080?style=for-the-badge"
+    src="https://img.shields.io/badge/TESTING-PYUNIT-E85D9E?style=for-the-badge&labelColor=3A1732&color=E85D9E"
     alt="PyUnit"
   >
 </p>
 
 <p>
   <img
-    src="https://img.shields.io/badge/DESIGN-LAYERED%20OOP-6C63FF?style=for-the-badge"
+    src="https://img.shields.io/badge/DESIGN-LAYERED%20OOP-CF4A8B?style=for-the-badge&labelColor=3A1732&color=CF4A8B"
     alt="Layered OOP"
   >
   <img
-    src="https://img.shields.io/badge/BONUS-GUI%20%2B%20CUSTOM%20AI-41CD52?style=for-the-badge"
-    alt="GUI + AI Bonus"
+    src="https://img.shields.io/badge/BONUS-GUI%20%2B%20CUSTOM%20AI-A62B68?style=for-the-badge&labelColor=3A1732&color=A62B68"
+    alt="GUI + Custom AI"
   >
 </p>
 
